@@ -26,4 +26,4 @@ define_and_plot_cluster <- function(file_name, n_max_clusters){
 #Run the above function for each file desired, with the number of maximum clusters defined
 #Typically you will want the number of maximum clusters the number of sites sampled + 1
 #Look at the comments in the above function for suggestions on how to respond to the prompts in the console
-define_and_plot_cluster(file_name = "GenePop_April_9_no_waterbodies_less_than_10.gen", n_max_clusters = 41)
+define_and_plot_cluster(file_name = "Example_file.gen", n_max_clusters = 41)
